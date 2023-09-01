@@ -1,1 +1,2 @@
-# exemplo-readmee
+# Exemplo - como escrever um README file 
+
